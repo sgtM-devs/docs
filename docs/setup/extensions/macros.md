@@ -346,7 +346,7 @@ def define_env(env):
     env.filter(my_filter, "custom_name")
 ```
 
-## Built-in template context
+## Built-in template variables
 
 The following variables are available in all templates without any additional configuration:
 
