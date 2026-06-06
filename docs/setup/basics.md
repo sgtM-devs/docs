@@ -275,9 +275,10 @@ documentation site, and thereby the URL format used for linking to pages.
     use_directory_urls: false
     ```
 
-Note that this is automatically set to `false` when building for [offline usage],
-so your documentation can be browsed from a local filesystem without a web
-server. The default value is `true`.
+!!! note `use_directory_urls` is automatically set to `false` when building for [offline usage]
+
+    This is so your documentation can be browsed from a local filesystem without a web
+    server. The default value is `true`.
 
 === "`true`"
 
